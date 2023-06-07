@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="dz-11">
+
+    <test name="Test all methods">
+
+        <packages>
+            <package name="employees"/>
+        </packages>
+
+    </test>
+</suite>
